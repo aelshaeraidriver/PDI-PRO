@@ -43,6 +43,8 @@ The Caveman's Guide
 
 This guide is the torch handed from the First Builder to you. It assumes you have just touched the Ball of Light. You know nothing. That is perfect. Follow these footprints, and you will build.
 
+---
+
 Step 1: The Hunter Gathers
 
 Every builder must first gather their materials. The First Caveman left them in a sacred place called a repository.
@@ -55,6 +57,8 @@ You will see a green button marked Code. Do not fear it. Move your cursor over i
 
 The knowledge will descend to your machine as a compressed bundle. This is your raw stone.
 
+---
+
 Step 2: The Stone is Placed
 
 You now hold a ZIP folder. It is a container, like a tightly bound bundle of spears. You must place it where you will work.
@@ -65,6 +69,8 @@ D:/PDI-Summon
 
 
 Create this folder if it does not exist. Drag the ZIP there, like dragging a kill to your cave.
+
+---
 
 Step 3: The Stone is Broken Open
 
@@ -80,6 +86,8 @@ Place your hand on your rodent-controller. Press the right button on its back. A
 Release the contents into the same ground.
 
 You now have the raw pieces, unbound and ready.
+
+---
 
 Step 4: The Cave of Command
 
@@ -99,6 +107,8 @@ Open it.
 A dark window appears, a single blinking eye awaiting your command.
 
 This is your new spear.
+
+---
 
 Step 5: The Awakening of the Workshop
 
@@ -173,6 +183,8 @@ The forge has been lit.
 
 The machine is prepared for creation.
 
+---
+
 Step 6: The Ritual of Building
 
 Before the final forging can begin, you must perform a teleportation ritual and travel to the sacred ground where your unbound stones rest.
@@ -216,6 +228,9 @@ Do not interrupt it.
 
 This is the birth of your tool.
 
+---
+
+
 When the river stops flowing and the blinking eye returns, the forging is complete.
 
 The machine will create a new chamber named:
@@ -227,7 +242,6 @@ Within this chamber rests your newly forged artifact:
 
 PDI-Pro.exe
 
-The machine will begin to breathe. It will hum. It will work. You will see words flowing like a river of fire across the black cave. Do not interrupt it. This is the birth of your tool.
 
 It is your application.
 
