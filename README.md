@@ -39,13 +39,13 @@ And for you? Whether you are a caveman who has just touched a glowing sphere, or
 
 ---
 
-The Caveman's Guide
+# The Caveman's Guide
 
 This guide is the torch handed from the First Builder to you. It assumes you have just touched the Ball of Light. You know nothing. That is perfect. Follow these footprints, and you will build.
 
 ---
 
-Step 1: The Hunter Gathers
+# Step 1: The Hunter Gathers
 
 Every builder must first gather their materials. The First Caveman left them in a sacred place called a repository.
 
@@ -59,7 +59,7 @@ The knowledge will descend to your machine as a compressed bundle. This is your 
 
 ---
 
-Step 2: The Stone is Placed
+# Step 2: The Stone is Placed
 
 You now hold a ZIP folder. It is a container, like a tightly bound bundle of spears. You must place it where you will work.
 
@@ -72,7 +72,7 @@ Create this folder if it does not exist. Drag the ZIP there, like dragging a kil
 
 ---
 
-Step 3: The Stone is Broken Open
+# Step 3: The Stone is Broken Open
 
 The bundle is closed. You must release its contents.
 
@@ -89,7 +89,7 @@ You now have the raw pieces, unbound and ready.
 
 ---
 
-Step 4: The Cave of Command
+# Step 4: The Cave of Command
 
 Now you must enter the Terminal. This is the black cave where words hold power. The caveman who speaks here commands the machine directly.
 
@@ -110,7 +110,7 @@ This is your new spear.
 
 ---
 
-Step 5: The Awakening of the Workshop
+# Step 5: The Awakening of the Workshop
 
 Before the Builder raises a wall, before the Machine obeys a command, before the forge can burn, the workshop itself must be awakened.
 
@@ -156,54 +156,34 @@ This is expected.
 The machine is gathering every piece required to build PDI-Pro:
 
 pandas
+
 openpyxl
+
 Pillow
+
 python-docx
+
 PyMuPDF
+
 customtkinter
+
 pyinstaller
 
-You do not need to gather them individually.
 
-The sacred scroll already knows every ingredient.
 
-The Waiting of the Builder
+You do not need to gather them individually as the sacred scroll already knows every ingredient.
 
-Remain patient while the machine works.
+Builders do not interrupt the forge.
 
-Builders do not interrupt a forge while metal is being shaped.
+## Allow the river of text to flow until the blinking cursor returns. When the cursor reappears, the workshop stands ready.
 
-Allow the river of text to flow until the blinking cursor returns.
-
-When the cursor reappears, the workshop stands ready.
-
-The tools have been gathered.
-
-The forge has been lit.
-
-The machine is prepared for creation.
+The tools have been gathered and the forge has been lit.
 
 ---
 
-Step 6: The Ritual of Building
+# Step 6: The Ritual of Building
 
-Before the final forging can begin, you must perform a teleportation ritual and travel to the sacred ground where your unbound stones rest.
-
-If your project was placed in:
-
-D:/PDI-Summon/PDI-PRO
-
-
-then speak:
-
-cd D:/PDI-Summon/PDI-PRO
-
-
-You have entered the sacred ground.
-
-Now, speak the final incantation.
-
-Carve these words exactly into the Terminal and press the Enter key:
+Now, the final forging can begin, you speak the final incantation. Carve these words exactly into the Terminal and press the Enter key:
 
 python -m PyInstaller ^
 --clean ^
@@ -218,49 +198,33 @@ main.py
 
 The machine will begin to breathe.
 
-It will hum.
-
-It will work.
+It will hum. It will work.
 
 You will see words flowing like a river of fire across the black cave.
 
-Do not interrupt it.
-
-This is the birth of your tool.
-
----
-
+Do not interrupt it , this is the birth of your tool.
 
 When the river stops flowing and the blinking eye returns, the forging is complete.
 
 The machine will create a new chamber named:
 
+
 dist
+
 
 
 Within this chamber rests your newly forged artifact:
 
+
 PDI-Pro.exe
 
 
-It is your application.
-
-It is the tool the First Caveman dreamed of building when he touched the Light.
+It is your application. It is the tool the First Caveman dreamed of building when he touched the Light.
 
 It is ready to journey beyond the cave and into the hands of other Builders.
 
-You have built it.
-
 You are no longer merely a caveman staring at a Ball of Light and wondering what lies beyond.
-
-You have crossed the threshold.
 
 You have spoken the language of the machine.
 
-You have commanded the forge.
-
-You have created.
-
-You are a Builder now.
-
-The future welcomes you.
+You are a Builder now ,the future welcomes you.
