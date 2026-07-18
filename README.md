@@ -233,6 +233,4 @@ Within this chamber rests your newly forged artifact:
 D:/PDI-Summon/PDI-PRO/dist/PDI-Pro.exe
 ```
 
-# It is your application. It is the tool the First Caveman dreamed of building when he touched the Light.
-
-``` You have spoken the language of the machine. You are a Builder now ,the future welcomes you.
+# It is your application. It is the tool the First Caveman dreamed of building when he touched the Light. You have spoken the language of the machine. You are a Builder now ,the future welcomes you.
