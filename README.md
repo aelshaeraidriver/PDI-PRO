@@ -185,6 +185,8 @@ The tools have been gathered and the forge has been lit.
 
 Now, the final forging can begin, you speak the final incantation. Carve these words exactly into the Terminal and press the Enter key:
 
+```
+
 python -m PyInstaller ^
 
 --clean ^
@@ -203,10 +205,10 @@ python -m PyInstaller ^
 
 main.py
 
+```
 
-The machine will begin to breathe.
 
-It will hum. It will work.
+The machine will begin to breathe , it will hum and it will work.
 
 You will see words flowing like a river of fire across the black cave.
 
