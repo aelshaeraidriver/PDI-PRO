@@ -51,8 +51,9 @@ Every builder must first gather their materials. The First Caveman left them in 
 
 Open your glowing portal. Navigate to:
 
+```
 https://github.com/aelshaeraidriver/PDI-PRO
-
+```
 You will see a green button marked Code. Do not fear it. Move your cursor over it. Click it with your left hand button. A menu will appear. Choose Download ZIP.
 
 The knowledge will descend to your machine as a compressed bundle. This is your raw stone.
@@ -64,9 +65,9 @@ The knowledge will descend to your machine as a compressed bundle. This is your 
 You now hold a ZIP folder. It is a container, like a tightly bound bundle of spears. You must place it where you will work.
 
 Move it to your chosen ground. Perhaps:
-
+```
 D:/PDI-Summon
-
+```
 
 Create this folder if it does not exist. Drag the ZIP there, like dragging a kill to your cave.
 
@@ -77,9 +78,9 @@ Create this folder if it does not exist. Drag the ZIP there, like dragging a kil
 The bundle is closed. You must release its contents.
 
 Find the ZIP folder in:
-
+```
 D:/PDI-Summon
-
+```
 
 Place your hand on your rodent-controller. Press the right button on its back. A list of choices will appear. Select the one that speaks of extraction—the word varies between tribes, but it means to unbind.
 
@@ -120,8 +121,9 @@ A tool without its parts is only a dream.
 
 Hidden within this repository is a scroll named:
 
+```
 requirements.txt
-
+```
 
 The scroll contains the names of every component required by PDI-Pro.
 
@@ -134,16 +136,17 @@ The machine only needs to be instructed to gather them.
 Before the machine can read the sacred scroll, it must first be shown where the scroll rests.
 
 Speak:
-
+```
 cd D:/PDI-Summon/PDI-PRO
-
+```
 
 Replace the path with your own chosen ground if it differs.
 
 Now carve these words exactly into the Terminal and press the Enter key:
 
+```
 python -m pip install -r requirements.txt
-
+```
 
 The machine will awaken.
 
@@ -155,6 +158,7 @@ This is expected.
 
 The machine is gathering every piece required to build PDI-Pro:
 
+```
 pandas
 
 openpyxl
@@ -169,7 +173,7 @@ customtkinter
 
 pyinstaller
 
-
+```
 
 You do not need to gather them individually as the sacred scroll already knows every ingredient.
 
@@ -218,16 +222,16 @@ When the river stops flowing and the blinking eye returns, the forging is comple
 
 The machine will create a new chamber named:
 
-
-dist
-
+```
+D:/PDI-Summon/PDI-PRO/dist
+```
 
 
 Within this chamber rests your newly forged artifact:
 
-
-PDI-Pro.exe
-
+```
+D:/PDI-Summon/PDI-PRO/dist/PDI-Pro.exe
+```
 
 It is your application. It is the tool the First Caveman dreamed of building when he touched the Light.
 
