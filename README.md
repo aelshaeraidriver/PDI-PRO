@@ -186,13 +186,21 @@ The tools have been gathered and the forge has been lit.
 Now, the final forging can begin, you speak the final incantation. Carve these words exactly into the Terminal and press the Enter key:
 
 python -m PyInstaller ^
+
 --clean ^
+
 --onefile ^
+
 --windowed ^
+
 --icon assets\folder_indexer.ico ^
+
 --add-data "assets;assets" ^
+
 --version-file version_info.txt ^
+
 --name PDI-Pro ^
+
 main.py
 
 
