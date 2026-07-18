@@ -1,19 +1,10 @@
-import os
-import sys
-import json
-import threading
-
+import os, sys, json, threading
 import tkinter as tk
-from tkinter import ttk
-from tkinter import filedialog
-from tkinter import messagebox
+from tkinter import ttk, filedialog, messagebox
 
 import customtkinter as ctk
 import pandas as pd
-
-from PIL import Image
-from PIL import ImageTk
-
+from PIL import Image, ImageTk
 from docx import Document
 import fitz
 
@@ -21,9 +12,8 @@ from scanner import Scanner
 from duplicates import (
     detect_duplicates,
     count_duplicate_files,
-    count_duplicate_groups
+    count_duplicate_groups,
 )
-
 from exporter import Exporter
 
 
