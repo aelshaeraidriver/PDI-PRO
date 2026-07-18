@@ -1,6 +1,6 @@
 import customtkinter as ctk
 
-from gui_v2 import Application
+from gui import Application
 
 
 def main():
